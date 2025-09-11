@@ -4,7 +4,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color: #FFF5EE;
+}
+
 #main-title{
+    background-color: #FFF5EE;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
     margin: 0 0.7rem 0.7rem 0.7rem;
     
@@ -13,7 +18,20 @@
 .london-view-images{
     box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
     margin:0 0.7rem 0.7rem 0.7rem;
-    margin
+  
+}
 
+.spese{
+    margin: 0 0.7rem 0.7rem 0.7rem;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+}
+
+.price-table{
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
 
 }
+
+.price{
+    font-weight: 700;
+}
+
