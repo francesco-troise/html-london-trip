@@ -55,18 +55,45 @@ body{
     width: 385px;
 }
 
+.shadow-list{
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+    width: 500px;
+    
+
+}
+
 .box-info{
     box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
-    padding: 0 25px;
+    padding: 0 ;
     margin: 0 0.7rem 0.7rem 0.7rem;
 
 }
 
 .box-info h3{
-    margin-left: -25px;
+    
     text-align: left;
+    
+}
+
+.box-info ol{
+    list-style-position: inside;
+  
 }
 
 .utility-list{
     margin-left: 25px;
+}
+
+.foto{
+    padding: 0 ;
+    margin: 0 0.7rem 0.7rem 0.7rem;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+}
+
+.images-container{
+  display: inline-block;       
+  padding: 10px;               
+  background: #fff;            
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+
 }
