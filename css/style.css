@@ -14,6 +14,9 @@ body{
     margin: 0 0.7rem 0.7rem 0.7rem;
     
 }
+.subtitle{
+    text-align: left;
+}
 
 .london-view-images{
     box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
@@ -37,8 +40,14 @@ body{
 
 .to-do-list{
     margin: 0 0.7rem 0.7rem 0.7rem;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
 
 
+}
+
+.to-do-list ul{
+    padding: 0 16px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
 }
 
 .now{
@@ -46,7 +55,18 @@ body{
     width: 385px;
 }
 
-.to-do-list ul{
-    padding: 0 16px;
+.box-info{
     box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+    padding: 0 25px;
+    margin: 0 0.7rem 0.7rem 0.7rem;
+
+}
+
+.box-info h3{
+    margin-left: -25px;
+    text-align: left;
+}
+
+.utility-list{
+    margin-left: 25px;
 }
