@@ -35,3 +35,18 @@ body{
     font-weight: 700;
 }
 
+.to-do-list{
+    margin: 0 0.7rem 0.7rem 0.7rem;
+
+
+}
+
+.now{
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4); ;
+    width: 385px;
+}
+
+.to-do-list ul{
+    padding: 0 16px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+}
